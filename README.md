@@ -3,6 +3,4 @@
 
  Criando primeiro repositório
  
- Adicionei essa linha pelo site GitHub 
- 
- <h2>&#128511;</h2>
+ Adicionei essa linha pelo site GitHub &#128541; &#128064; &#x2B50; &#128511; 
